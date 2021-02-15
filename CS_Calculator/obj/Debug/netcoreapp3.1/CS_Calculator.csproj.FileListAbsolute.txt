@@ -1,0 +1,12 @@
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/bin/Debug/netcoreapp3.1/CS_Calculator.deps.json
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/bin/Debug/netcoreapp3.1/CS_Calculator.runtimeconfig.json
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/bin/Debug/netcoreapp3.1/CS_Calculator.runtimeconfig.dev.json
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/bin/Debug/netcoreapp3.1/CS_Calculator.dll
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/bin/Debug/netcoreapp3.1/CS_Calculator.pdb
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.csprojAssemblyReference.cache
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.AssemblyInfoInputs.cache
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.AssemblyInfo.cs
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.csproj.CoreCompileInputs.cache
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.dll
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.pdb
+/Users/fekadesenbeta/Projects/CS_Calculator/CS_Calculator/obj/Debug/netcoreapp3.1/CS_Calculator.genruntimeconfig.cache
